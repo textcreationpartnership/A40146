@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning such as shall enter into the Kingdom of God and new and heavenly Jerusalem, and such as shall not.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40146</idno><idno type="EEBO-CITATION">99831651</idno>
+  <idno type="VID">36116</idno>
+  <idno type="EEBO-PROQUEST">2248499435</idno>
+  
+            <idno type="STC">Wing F1772B</idno>
+            <idno type="STC">ESTC R220229</idno>
+            <idno type="PROQUEST">99831651</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831651e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36116)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2126:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning such as shall enter into the Kingdom of God and new and heavenly Jerusalem, and such as shall not.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: G.F., i.e. George Fox.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>"Concerning condemnation" has caption title on p. 7.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term type="topical_term">Salvation --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:36116:1"/>
+            <head>Concerning such as shall enter into the King<g ref="char:EOLhyphen"/>dom of God, and New and Heavenly <hi>JERUSALEM,</hi> and such as shall not.</head>
+            <p>CHRIST Jesus saith, No man can see the King<g ref="char:EOLhyphen"/>dom of God, nor enter into the Kingdom of God, except he be born again of Water and of the Spi<g ref="char:EOLhyphen"/>rit. <hi>For that which is born of the Flesh, is Flesh, and that which is born of the Spirit is Spirit,</hi> John 3. <hi>And he that was born after the Flesh, persecuted him that was born after the Spirit; even so it is now.</hi> Gal. 4.29. <hi>And in Christ neither Circumci<g ref="char:EOLhyphen"/>sion availeth any thing nor Ʋncircumcision; but a new Creature. For he that soweth to the Flesh, shall of the Flesh reap Corrupti<g ref="char:EOLhyphen"/>on: but he that soweth to the Spirit, shall of the Spirit reap life everlasting.</hi> Gal. 4.6.8.15.</p>
+            <p>Now consider, what good all the Christians or the Jews, or Turks, outward Worships, Religions, or Professions, do them, if they be not new Creatures and born again, it availeth them nothing, neither shall they see the King<g ref="char:EOLhyphen"/>dom of God or enter into it, except they be born again of the Spirit; for if they do sow to the flesh of the flesh they shall reap Corruption, for they cannot sow to the Spirit and of the Spirit reap life Eternal, except they be born of the Spirit.</p>
+            <p>The works of the flesh are Manifest, which are these. <hi>Adultry, Fornication, Ʋncleanness, Lasciviousness, Idolatry, Witchcraf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Hatred, Variance, Wrath, Strife, Sedition, He<g ref="char:EOLhyphen"/>resy, Envyings, Murder, Drunkenness, Revilings, and such like; of which I tell you as I have told you before in times
+<pb n="2" facs="tcp:36116:2"/>past: that they which do such things shall not inherit the King<g ref="char:EOLhyphen"/>dom of God,</hi> Gal. 5, 19, 20, 21.</p>
+            <p>And now consider, all you that do these evil works the Apostle tells you, ye shall not inherit the Kingdom of God, for the Kingdom of God is not in Words, but in Power; and stands in Righteousness and Peace, and Joy in the Holy Ghost.</p>
+            <p>And again, the Apostle saith, <hi>Know ye not that the un<g ref="char:EOLhyphen"/>righteous shall not Inherit the Kingdom of God? Be not deceiv<g ref="char:EOLhyphen"/>ed, neither Fornicators, nor Idolators, nor Abusers of them<g ref="char:EOLhyphen"/>selves with Mankind; nor Thieves, nor Coveteous, nor Revi<g ref="char:EOLhyphen"/>lers, nor Extortioners, shall inherit, the Kingdom of God,</hi> 1 Cor. 6.9, 10.</p>
+            <p>Here you may see, such as act and live in these wicked things, shall not inherit the Kingdom of God. And there<g ref="char:EOLhyphen"/>fore you that act such things and live in them, consider what your end will be; and what Kingdom you must in<g ref="char:EOLhyphen"/>herit.</p>
+            <p>And the Apostle saith to the <hi>Corinthians. Know ye not that you are the Temple of God, and the Spirit of God dwelleth in you? if any man defile the Temple of God, him shall God destroy: for the Temple of God is holy, which Temple ye are. Let no man deceive himself,</hi> 1 Cor. 3.16, 17, 18.</p>
+            <p>Here you may see, what Judgment God threatens upon them that defile his Temple. Namely, their bodies, as in 1 <hi>Cor.</hi> 6.15. to the 19.</p>
+            <p>And the Apostle saith to the <hi>Ephesians,</hi> Fornication and all Uncleanness, Covetousness, let it not be once named a<g ref="char:EOLhyphen"/>mong you, as becometh Saints: neither filthiness nor fool<g ref="char:EOLhyphen"/>lish talking, nor jesting, which are not convenient, for this, ye know that no Whore-monger, nor unclean Person, nor covetous Man who is an Idolator; hath any inheritance in the Kingdom of Christ and of God. <hi>Let no man deceive you with vain words, for because of these things cometh the wrath of God upon the Children of Disobedience,</hi> as you may see in <hi>Ephesians</hi> 5.</p>
+            <pb n="3" facs="tcp:36116:2"/>
+            <p>Now here you may see, they that commit these things and live in them, shall not inhetit the Kingdom of Christ nor of God; but these evil things who commit them bring the wrath of God upon them, and do not deceive your selves for you cannot escape it. And these evil things are so far from being practised or acted amongst the Saints, they are not so much as once to be named amongst them; the Saints are to be kept so holy which do inherit the King<g ref="char:EOLhyphen"/>dom of Christ, and of God which is holy.</p>
+            <p>And Christ said unto <hi>John, He that overcometh shall inhe<g ref="char:EOLhyphen"/>rit all things, and I will be his God, and he shall be my Son. But the fearful and unbelieving, and the Abominable, and Mru<g ref="char:EOLhyphen"/>derers, and Whoremongers, and Sorcerers, and Idolaters, and all Liars shall have their part in the Lake which burns with fire and Brimstone, which is the second Death,</hi> Revel. 21.7, 8.</p>
+            <p>Now here you may see is the end of all such that live in such unclean Actions according to Christs Judgment. And the end and comfort of all them that overcome the Devil and his works, they shall inherit all things and shall be cal<g ref="char:EOLhyphen"/>ed Gods Sons.</p>
+            <p>
+               <hi>And the Nations of them which are saved shall walk in the Light of Heavenly</hi> Jerusalem, <hi>the glory of the Lord doth ligh<g ref="char:EOLhyphen"/>ten it, and the Lamb is the Light thereof; and the gates of it shall not be shut at all by day, for there shall be no night there, and there shall in no wise enter into it any thing that defileth, nei<g ref="char:EOLhyphen"/>ther whosoever worketh Abomination or maketh a Lie, but they which are written in the Lambs book of life;</hi> they shall enter into his heavenly <hi>Jerusalem,</hi> for without this heavenly <hi>Jeru<g ref="char:EOLhyphen"/>salem are Dogs, and Sorcerers, and Whoremongers, and Mur<g ref="char:EOLhyphen"/>derers, and Idolators, and whosoever loveth and maketh a lie,</hi> Revel. 22.15.</p>
+            <p>And therefore consider, all ye that live in these evils and are defiled with them, Christ tells you ye can in no wise en<g ref="char:EOLhyphen"/>ter into this holy City New <hi>Jerusalem.</hi>
+            </p>
+            <p>And <hi>John</hi> saith, <hi>The Devil and them that he had deceived, was cast into the lake of fire that burneth with Brimstone with
+<pb n="4" facs="tcp:36116:3"/>the Beast and the false Prophet; and shall be tormented Day and Night for ever and for ever.</hi> So here is an end of the Devil, Beast, and false Prophet, and his followers.</p>
+            <p>And John he saw <hi>Death and Hell were cast into the lake of Fire, this is the second Death, and whosoever was not found written in the Lambs Book of life, was cast into the lake of fire,</hi> there is their end.</p>
+            <p>
+               <hi>And the Beast and his followers made War with him that sat upon the Horse.</hi> Namely, Christ and his followers, <hi>and the Beast was taken, and with him the false Prophet that wrought Miracles before the Beast, with which he deceived them that re<g ref="char:EOLhyphen"/>ceived the Mark of the Beast, and them that worshipped his Im<g ref="char:EOLhyphen"/>age; these both were cast alive into the Lake of fire which burns with Brimstone.</hi> And here is the end of such deceivers and worshippers, as you may see in <hi>Revel.</hi> 19.19, 20. Which makes war against Christ and his followers, but he is too hard for them, and <hi>overcometh them,</hi> and they <hi>that worship the Image that the Beast hath made;</hi> such do not worship God in Spi<g ref="char:EOLhyphen"/>rit and Truth as Christ commanded above Sixteen hundred years ago. And you may see the Judgment, and Punishment, of the great Whore Mistery of <hi>Babylon,</hi> Mother of <hi>Harlots,</hi> or false Church; who hath harlotted from the Spirit of Christ that the Apostles were in. Who hath drunk the Blood of the Martyrs? And in her was found the blood of the Pro<g ref="char:EOLhyphen"/>phets, and of the Saints, and of all that were slain upon the Earth concerning Religion, and Worship; in this whore which is whored from the Spirit of God the Apostles were in. But you may read her Judgment, and Punishment, Fall, and Destruction in <hi>Revel.</hi> 17.18. <hi>And of the Beast that as<g ref="char:EOLhyphen"/>cended out of the bottomless Pit and goeth into Perdition, and they who dwell on the Earth shall Wonder, whose names were not written in the Book of life from the foundation of the World.</hi> But they whose names are written in the book of life, do not wonder at the down fall of the Beast, and Whore, the false Church; And Christ Jesus said unto his Disciples, and to the Multitude, <hi>Except your Righteousness do exceed the Righ<g ref="char:EOLhyphen"/>teousness
+<pb n="5" facs="tcp:36116:3"/>of the Scribes and Pharisees, ye shall in no wise enter in<g ref="char:EOLhyphen"/>to the Kingdom of Heaven,</hi> Mat. 5.20. Christs righteousness doth exceed the righteousness of the Law and mans own outward Righteousness, which is as <hi>filthy Raggs.</hi>
+            </p>
+            <p>Christ saith, <hi>It is not every one that saith unto me, Lord, Lord, shall enter into the Kingdom of Heaven: but he that doth the will of my Father which is in Heaven,</hi> Mat. 7.21. So here you may see it is not the Sayers of the will of God and calling Christ Lord, but the doers of the Will of God that enter into the Kingdom of Heaven. And <hi>James</hi> saith, <hi>If they were hearers of the Word only and not doers, they deceive their own Souls;</hi> for the Apostle <hi>Paul</hi> saith, <hi>The hearers of the Law are not Justified before God, but the doers of the Law shall be Justified,</hi> Rom. 2.13. <hi>and</hi> James 1.22.</p>
+            <p>And Christ Jesus saith, <hi>Wo be unto ye Scribes and Pharisees, hypocrites, for ye shut up the Kingdom of heaven against men, for ye neither go in your selves, neither suffer ye them that are en<g ref="char:EOLhyphen"/>tering to go in,</hi> Mat. 23.13.</p>
+            <p>Now is not this the State and condition of many great Professors in Christendom, with their <hi>long prayers,</hi> and with <hi>their Tythes, Mint, Annis, and Commin, and Making,</hi> or forc<g ref="char:EOLhyphen"/>ing <hi>to themselves Proselites, and shuting up the Kingdom of Heaven from men; and neither go in themselves nor suffer them that would enter.</hi> And drawing people from the Light of Christ, and his Spirit, and Power, and Grace, in their own hearts, by which they should see the Kingdom of God and enter into it. And Christ said to his disciples when he <hi>sent them forth as sheep in the Midst of Wolves,</hi> namely, the out<g ref="char:EOLhyphen"/>ward Professing <hi>Jews,</hi> and <hi>whosoever shall not receive you and hear your words, when you depart out of that house or City, shake off the dust of your feet. Verily, I say unto you, it shall be more tollerable for the Land of</hi> Sodom <hi>and</hi> Gomorah <hi>in the day of Judgment then for that City,</hi> Mat. 10.</p>
+            <p>Here you may see they that will not receive the Message of Christ and his Gospel, they <hi>shake off the dust of their shoes against them,</hi> and leave them to the day of Judgment, as <hi>Paul</hi> and <hi>Barnabas</hi> did, in <hi>Acts</hi> 13.50, 51. And Christ said
+<pb n="6" facs="tcp:36116:4"/>to him that <hi>he gave five talents to, and he had gained five ta<g ref="char:EOLhyphen"/>lents more; Well done thou good and faithful servant, thou hast been faithful over a few things, I will make thee ruler over many things; enter thou into the Joy of thy Lord,</hi> Mat. 20.21. Here you may see they that do well, and do improve their hea<g ref="char:EOLhyphen"/>venly talents, do <hi>enter into the Joy of the Lord. And they which do believe do enter into rest, and he that is entered into his rest is ceased from his own works as God did from his; and they which do not believe</hi> in the life of Christ, <hi>do not enter into him their rest because of their unbelief,</hi> Heb. 4. <hi>and</hi> John 12. And therefore consider, where they remain if it be not in the Kingdom of the <hi>Beast</hi> and <hi>Dragon full of darkness,</hi> and there <hi>they gnaw their tongues for pain and yet will not repent of their evil deeds,</hi> Revel. 16. But unto his Son he saith, <hi>thy throne O God is forever and ever, a Scepter of righteousness is the Scepter of thy Kingdom,</hi> Heb. 1.8. And <hi>Peter</hi> saith, <hi>Of a truth, I perceive that God is no respecter of Persons, but in every Nation he that feareth God &amp; worketh righteousness is accep<g ref="char:EOLhyphen"/>ted with him, Acts.</hi> 10.34, 35. Here you may see they must be such as work Righteousness, and not only talk of Righ<g ref="char:EOLhyphen"/>teousness if they be accepted with God. And the <hi>unprofita<g ref="char:EOLhyphen"/>ble servant</hi> that hid his <hi>Talent</hi> and did not improve it, <hi>it was taken from him and he cast into utter darkness,</hi> &amp;c. <hi>where there shall be Weeping and gnashing of Teeth;</hi> and will not this be the portion of all them that do not improve their heavenly talent that Christ gave unto them. And Christ Jesus speak<g ref="char:EOLhyphen"/>ing of the <hi>Sheep on his right hand, and the Goats on his left hand; to the Goats he saith, Depart from me ye Cursed into e<g ref="char:EOLhyphen"/>verlasting fire, prepared for the Devil and his Angels.</hi> And so <hi>they do go into everlasting punishment,</hi> but the <hi>Sheep</hi> which are the <hi>righteous that are on his right hand, they shall go into e<g ref="char:EOLhyphen"/>verlasting Life,</hi> Mat. 25. Now here you may see Christs judg<g ref="char:EOLhyphen"/>ments upon the Wicked, and their end and the happiness and eternal state of the Righteous, which Christ calleth his Sheep.</p>
+         </div>
+         <div type="tract">
+            <pb n="7" facs="tcp:36116:4"/>
+            <head>Concerning Condemnation.</head>
+            <p>HE that believeth on Christ in his Light, which is the life <hi>in him, is not condemned, but he that believeth not</hi> in the Light as Christ commands, <hi>is condemned already; and this is the Condemnation that light is come into the World, and enligh<g ref="char:EOLhyphen"/>teneth every man that cometh into the World.</hi> And Christ saith, <hi>believe in the Light, but men love darkness rather then Light because their deeds are evil: and every one that doth evil ha<g ref="char:EOLhyphen"/>teth the Light, neither cometh to the light least his deeds should be reproved,</hi> John 1.3.12. chap.</p>
+            <p>Now here you may see, <hi>this is the condemnation that light is come into the World, and every one that doth evil hateth the Light, and loveth darkness rather than light whose deeds are evil.</hi> And again Christ saith, <hi>He that heareth my word and be<g ref="char:EOLhyphen"/>lieveth on him that sent me hath everlasting life, and shall not come into Condemnation, but is past from death to life,</hi> John 5.24. <hi>And he that believeth not the Son of God shall not see life, but the wrath of God abideth on him, and he is condemned al<g ref="char:EOLhyphen"/>ready. But whosoever believeth in the Son of God, shall not pe<g ref="char:EOLhyphen"/>rish but have everlasting life,</hi> John 3.16, 17, 18.36. So it is by believing in the Light which is the life in Christ, that peo<g ref="char:EOLhyphen"/>ple come out of condemnation to life; And <hi>as by the of<g ref="char:EOLhyphen"/>fence or disobedience of one, namely,</hi> Adam, <hi>Judgment came upon all men to condemnation, even so by the righteousness of one, namely, Christ the free gift came upon all men to Justifica<g ref="char:EOLhyphen"/>tion of life,</hi> Rom. 5.18. Now if ye do not believe in Christ as he hath commanded in his Light, which is the life in him, <hi>you shall not see life</hi> without his Light, and Christ tells you that you <hi>are condemned already that doth not believe in him</hi> and his Light, <hi>and the wrath of God abideth upon you.</hi> And the Apostle <hi>Paul</hi> saith, <hi>there is no condemnation to them which are in Christ Jesus who walk not after the flesh, but after the Spirit,</hi> Rom. 8.1.
+<pb n="8" facs="tcp:36116:5"/>That is, <hi>not after the Motions of the Flesh, but after the Motions of the Spirit</hi> of God; these are they which believe in the Light, which is the life in Christ and are grafted into him. And the Apostle calleth the Old Covenant, or Old Testament, <hi>a ministration of condemnation though it was Glorious</hi> in it's time; but the Ministration of righteousness in the New Covenant, and New Testament, exceeds it in Glory; and the Glory of the first Testament is done away and abolished by Christ, as in, 2 <hi>Cor.</hi> 3.</p>
+            <p>Now in the first Testament it was the Command of God, <hi>that they should not forswear themselves, but perform their Oaths to the Lord,</hi> as in <hi>Mat.</hi> 5.33, 34. But Christ in his New Testament, and New Co<g ref="char:EOLhyphen"/>venant saith, <hi>I say unto you swear not at all,</hi> and this doctrine he preach<g ref="char:EOLhyphen"/>ed to his Disciples and to the Jews, that had commanded oaths and swearing. And the Apostle <hi>James</hi> who directed his Epistle to the 12 Tribes, and he had been a Jew and a professor of the Old Testa<g ref="char:EOLhyphen"/>ment, and old Covenant; and now was converted and a believer in Christ Jesus, and a preacher of the new Covenant, and New Testa<g ref="char:EOLhyphen"/>ment according to Christs Doctrine; and he said, <hi>but above all things my brethren swear not, neither by Heaven, nor by Earth, neither by any other Oath; but let your yea, be yea, and your nay, nay, lest ye fall into Condemnation,</hi> James 5.12.</p>
+            <p>Now here according to <hi>James</hi> Doctrine, they that swear or take any Oath, fall into Condemnation; and go out of the Doctrine of Christ and the Apostles in the New Testament and New Covenant; and Christ said unto the Jews, <hi>If you had known what this meaneth I will have mercy and not sacrifice, ye would not have condemned the Guiltless,</hi> Mat. 12.7. And <hi>James</hi> saith to the Jews, <hi>ye have condemned and killed the just, and he doth not resist you; this</hi> James speaketh to the Jews that <hi>had lived in pleasure upon the Earth, and been wanton and had nourished their hearts as in the day of Slaughter,</hi> James 5.6. But such ungodly men are for condemnation as in <hi>Jude</hi> 4. And as <hi>Solomon</hi> saith, <hi>A man of wicked devices will the Lord condemn, and he that just fieth the wicked, and he that condemneth the just even they both are an abomination to the Lord,</hi> Prov 12 2 17.15. And Christ Jesus saith, in <hi>Mat.</hi> 12.36. <hi>I say unto you that every Idle word that men shall speak, they shall give account thereof in the day of judgment, for by thy words thou shalt be justified, and by thy words thou shalt be condemned.</hi> Are not all here to have a care and to be watchful against idle words, and bad words, lest they be condemned; but as the Apostle saith, <hi>there is no con<g ref="char:EOLhyphen"/>demnation to them which are in Christ Jesus, who walk not after the Flesh, but after the Spirit,</hi> that is not after the fleshly wayes words nor works, and then as the Apostle saith, <hi>who shall lay any thing to the charge of Gods elect, it is God that justifieth who is he that condemneth,</hi> Rom. 8.1.33, 34. So you may see here who are condemned, and who are justified; and who entere into the Kingdom of God, and into the Heavenly <hi>Jerusalem</hi> and who not.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
